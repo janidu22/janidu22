@@ -39,7 +39,7 @@ const janidu = {
   <a href="https://linkedin.com/in/janidu-yapa-40217a332">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"/>
   </a>
-  <a href="https://www.youtube.com/c/janidu dev.">
+  <a href="https://youtube.com/@janidudevhub?si=_9LWvX8e-I_qIESv">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=FF0000" alt="YouTube"/>
   </a>
   <a href="https://www.leetcode.com/janidudev">
