@@ -1,31 +1,152 @@
-[![MasterHead](https://camo.githubusercontent.com/1a8ff41c66898990548c003605760771448b78f2f12852f12c14235c830bd939/68747470733a2f2f6173312e667463646e2e6e65742f76322f6a70672f30322f32312f39372f38362f313030305f465f3232313937383633395f45795042413974757363596857367268614f354569567a6447386876515367562e6a7067)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Janidu Yapa</h1>
-<h3 align="center">A passionate Full Stack developer from Sri Lanka</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+# 
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:3b82f6,100:60a5fa&height=200&section=header&text=Janidu%20Yapa&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Sri%20Lanka&descAlignY=55&descSize=18"/>
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=janidu22&label=Profile%20views&color=0e75b6&style=flat" alt="janidu22" /> </p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Building+the+future%2C+one+line+at+a+time;Passionate+about+clean+code+%26+innovation;Currently+mastering+REST+APIs" alt="Typing SVG" />
+</div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=janidu22" alt="janidu22" /></a> </p>
+<br>
 
-- 🌱 I’m currently learning **REST API**
+## 🚀 About Me
 
-- 💬 Ask me about **ASP Dotnet Core**
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
-- 📫 How to reach me **janidudev@gmail.com**
+```typescript
+const janidu = {
+  location: "Sri Lanka 🇱🇰",
+  currentFocus: "REST API Development",
+  expertise: "ASP.NET Core",
+  contact: "janidudev@gmail.com",
+  funFact: "I think I am funny 😄",
+  lifePhilosophy: "Code, Learn, Repeat"
+};
+```
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/janidu-yapa-40217a332" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="janidu-yapa-40217a332" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/janidu dev." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="janidu dev." height="30" width="40" /></a>
-<a href="https://www.leetcode.com/janidudev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="janidudev" height="30" width="40" /></a>
+### 🎯 Current Journey
+- 🌱 **Learning:** REST API Architecture & Design Patterns
+- 💼 **Specializing in:** ASP.NET Core Development
+- 🤝 **Open to:** Collaboration on innovative projects
+- 💡 **Ask me about:** Backend development, API design, and system architecture
+
+<br clear="right"/>
+
+## 🌐 Let's Connect
+
+<div align="center">
+  <a href="https://linkedin.com/in/janidu-yapa-40217a332">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.youtube.com/c/janidu dev.">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=FF0000" alt="YouTube"/>
+  </a>
+  <a href="https://www.leetcode.com/janidudev">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black&labelColor=FFA116" alt="LeetCode"/>
+  </a>
+  <a href="mailto:janidudev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-3B82F6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=3B82F6" alt="Email"/>
+  </a>
+</div>
+
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+### Frontend Technologies
+<p>
+  <img src="https://skillicons.dev/icons?i=react,angular,nextjs,typescript,javascript,html,css,tailwind,bootstrap" alt="Frontend Skills"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+### Backend & Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=dotnet,cs,nodejs,express,java,php,aws,azure,docker,redis" alt="Backend Skills"/>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=janidu22&show_icons=true&locale=en&layout=compact" alt="janidu22" /></p>
+### Databases & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,git,cpp" alt="Database & Tools"/>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=janidu22&show_icons=true&locale=en" alt="janidu22" /></p>
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=janidu22&" alt="janidu22" /></p>
+## 📊 GitHub Analytics
+
+<div align="center">
+  
+  <table>
+    <tr>
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=janidu22&show_icons=true&theme=react&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+      </td>
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=janidu22&layout=compact&theme=react&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae&langs_count=8" alt="Top Languages"/>
+      </td>
+    </tr>
+  </table>
+  
+</div>
+
+<br>
+
+<div align="center">
+  <img width="90%" src="https://streak-stats.demolab.com?user=janidu22&theme=react&hide_border=true&background=1a1b27&stroke=70a5fd&ring=bf91f3&fire=70a5fd&currStreakLabel=38bdae&sideLabels=38bdae&currStreakNum=70a5fd&sideNums=70a5fd&dates=626880" alt="GitHub Streak"/>
+</div>
+
+<br>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=janidu22&theme=onestar&no-frame=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+</div>
+
+<br>
+
+## 📈 Contribution Activity
+
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=janidu22&custom_title=Contribution%20Graph&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Contribution Graph"/>
+</div>
+
+<br>
+
+## 📋 Detailed Stats
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=janidu22&theme=github_dark" alt="Profile Details"/>
+      </td>
+      <td width="50%">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=janidu22&theme=github_dark&utcOffset=5.5" alt="Productive Time"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=2&section=footer&width=100%"/>
+</div>
+
+<div align="center">
+  
+  <img src="https://komarev.com/ghpvc/?username=janidu22&label=Profile%20Views&color=70a5fd&style=flat-square&labelColor=1a1b27" alt="Profile Views"/> 
+  <img src="https://img.shields.io/github/followers/janidu22?label=Followers&style=flat-square&color=70a5fd&labelColor=1a1b27" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/janidu22?label=Stars&style=flat-square&color=70a5fd&labelColor=1a1b27" alt="Stars"/>
+  
+</div>
+
+<br>
+
+<div align="center">
+  <h3>💫 Thanks for visiting! Let's build something amazing together 💫</h3>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer&animation=fadeIn"/>
+</div>
