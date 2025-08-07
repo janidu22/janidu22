@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Building+the+future%2C+one+line+at+a+time;Passionate+about+clean+code+%26+innovation;Currently+mastering+REST+APIs" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Building+the+future%2C+one+line+at+a+time;Passionate+about+clean+code+%26+innovation;Currently+mastering+REST+APIs&repeat=true" alt="Typing SVG" />
 </div>
 
 <br>
@@ -78,7 +78,7 @@ const janidu = {
   <table>
     <tr>
       <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=janidu22&show_icons=true&theme=react&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=janidu22&show_icons=true&theme=react&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae" alt="GitHub Stats"/>
       </td>
       <td width="50%">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=janidu22&layout=compact&theme=react&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae&langs_count=8" alt="Top Languages"/>
@@ -91,7 +91,7 @@ const janidu = {
 <br>
 
 <div align="center">
-  <img width="90%" src="https://streak-stats.demolab.com?user=janidu22&theme=react&hide_border=true&background=1a1b27&stroke=70a5fd&ring=bf91f3&fire=70a5fd&currStreakLabel=38bdae&sideLabels=38bdae&currStreakNum=70a5fd&sideNums=70a5fd&dates=626880" alt="GitHub Streak"/>
+  <img width="90%" src="https://streak-stats.demolab.com?user=janidu22&theme=react&hide_border=true&background=1a1b27&stroke=70a5fd&ring=bf91f3&fire=70a5fd&currStreakLabel=38bdae&sideLabels=38bdae&currStreakNum=70a5fd&sideNums=70a5fd&dates=70a5fd" alt="GitHub Streak"/>
 </div>
 
 <br>
