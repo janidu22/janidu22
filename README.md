@@ -32,7 +32,7 @@ Strong foundation in **OOP, SDLC, and Data Structures & Algorithms**, with a pas
 - Swagger, Postman
 
 ### Databases
-- SQL Server, MongoDB
+- SQL Server,Postgres SQL, My SQL, MongoDB
 
 ### Security
 - JWT Authentication  
