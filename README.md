@@ -1,147 +1,134 @@
-# 👋 Hi, I’m Janidu Yapa
+<!-- HEADER -->
+<h1 align="center">Hi 👋, I'm Janidu Yapa</h1>
 
-**Software Engineering Undergraduate | Full-Stack Developer**  
-📍 Kandy, Sri Lanka  
-📧 janidudev@gmail.com  
+<h3 align="center">🚀 Full-Stack Developer | Backend Engineer | Cloud Builder ☁️</h3>
 
-[LinkedIn](https://linkedin.com/in/janidu-yapa-40217a332) ·
-[GitHub](https://github.com/janidu22) ·
-[LeetCode](https://www.leetcode.com/janidudev)
-
----
-
-## 🧑‍💻 Professional Summary
-
-Proactive **Software Engineering undergraduate** with hands-on experience in **ASP.NET Core, Spring Boot, React, Next.js, and Angular**.  
-Skilled in **REST API development**, full-stack web applications, and clean, scalable system design.  
-Strong foundation in **OOP, SDLC, and Data Structures & Algorithms**, with a passion for continuous learning.
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Spring+Boot+Developer;ASP.NET+Core+Developer;React+%7C+Next.js+Developer;AWS+Cloud+Engineer;Building+Scalable+Systems" />
+</p>
 
 ---
 
-## 🔧 Technical Skills
-
-### Languages
-- C#, Java, JavaScript, TypeScript, Python
-
-### Frameworks & Libraries
-- ASP.NET Core, Spring Boot  
-- React, Angular, Next.js
-
-### Web & APIs
-- REST API Development  
-- Swagger, Postman
-
-### Databases
-- SQL Server,Postgres SQL, My SQL, MongoDB
-
-### Security
-- JWT Authentication  
-- OAuth2  
-- ASP.NET Identity Core  
-- Spring Security
-
-### Tools & Cloud
-- Git, Visual Studio, VS Code  
-- Azure, AWS  
+<!-- PROFILE VIEWS -->
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=janidu22&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+</p>
 
 ---
 
-## 🚀 Featured Projects
+# 🌐 Connect with me 🌐
 
-### 🟢 Eco Space Cleaning Services (Frontend)
-🔗 Live: https://eco-space-janidu-dev.vercel.app/  
+<p align="center">
+<a href="https://linkedin.com/in/janidu-yapa-40217a332">
+<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+</a>
 
-- Responsive service-based web application  
-- Multi-step booking flow with vouchers  
-- Authenticated user access  
-- Consistent eco-themed design system  
+<a href="mailto:janidudev@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="50"/>
+</a>
 
-**Tech:** React, Next.js, TypeScript, Tailwind CSS
+<a href="https://github.com/janidu22">
+<img src="https://skillicons.dev/icons?i=github" height="50"/>
+</a>
 
----
-
-### 🧠 MindCare – AI-Powered Mental Health Platform
-🔗 GitHub: https://github.com/janidu22/MindCare-AI-Project  
-
-- Multi-role system (Patients, Counselors, Admins)  
-- Secure authentication & role-based access  
-- AI-based depression & anxiety detection  
-- Real-time communication & alerts  
-
-**Tech:** ASP.NET Core MVC, C#, SignalR, Azure Cognitive Services, SQL Server
+<a href="https://leetcode.com/janidudev">
+<img src="https://skillicons.dev/icons?i=leetcode" height="50"/>
+</a>
+</p>
 
 ---
 
-### 🎟️ StarEvents – Online Event Ticketing System
-🔗 GitHub: https://github.com/janidu22/StarEvents  
+# 🧑‍💻 About Me
 
-- Automated QR-coded e-tickets  
-- Email delivery system  
-- Integrated Stripe & PayPal payments  
-
-**Tech:** ASP.NET Core MVC, EF Core, SQL Server
-
----
-
-### 💇 Salon Éclat – Salon Management System
-🔗 GitHub: https://github.com/janidu22/SalonEclact  
-
-- Responsive booking portal  
-- Analytics dashboard for services & revenue  
-
-**Tech:** ASP.NET Core Razor Pages (.NET 8), EF Core
+- 🎓 Software Engineering Undergraduate  
+- ⚙️ Backend Specialist (Spring Boot & .NET)  
+- 🌐 Full-Stack Developer  
+- ☁️ AWS Cloud Developer  
+- 🚀 Building production-level systems  
+- 🧠 Passionate about scalable architectures  
 
 ---
 
-### 📘 Data Structures & Algorithms (Practice)
-- Java & C# implementations  
-- Searching & sorting algorithms  
-- Strong OOP and problem-solving focus  
+# ⚡ Languages and Tools ⚡
 
-🔗 Java: https://github.com/janidu22/DataStructuresAndAlgorithmsJava-2025  
-🔗 C#: https://github.com/janidu22/Data-Structures_and_Algorithms-C-
+<p align="center">
 
----
+<img src="https://skillicons.dev/icons?i=java" height="50"/>
+<img src="https://skillicons.dev/icons?i=cs" height="50"/>
+<img src="https://skillicons.dev/icons?i=js" height="50"/>
+<img src="https://skillicons.dev/icons?i=ts" height="50"/>
+<img src="https://skillicons.dev/icons?i=python" height="50"/>
+<img src="https://skillicons.dev/icons?i=spring" height="50"/>
+<img src="https://skillicons.dev/icons?i=dotnet" height="50"/>
+<img src="https://skillicons.dev/icons?i=react" height="50"/>
+<img src="https://skillicons.dev/icons?i=nextjs" height="50"/>
+<img src="https://skillicons.dev/icons?i=angular" height="50"/>
+<img src="https://skillicons.dev/icons?i=tailwind" height="50"/>
+<img src="https://skillicons.dev/icons?i=laravel" height="50"/>
+<img src="https://skillicons.dev/icons?i=flutter" height="50"/>
+<img src="https://skillicons.dev/icons?i=aws" height="50"/>
+<img src="https://skillicons.dev/icons?i=azure" height="50"/>
+<img src="https://skillicons.dev/icons?i=postgres" height="50"/>
+<img src="https://skillicons.dev/icons?i=mysql" height="50"/>
+<img src="https://skillicons.dev/icons?i=mongodb" height="50"/>
+<img src="https://skillicons.dev/icons?i=git" height="50"/>
+<img src="https://skillicons.dev/icons?i=github" height="50"/>
 
-## 🎓 Education
-
-**BEng (Hons) Software Engineering**  
-London Metropolitan University, UK (via ESOFT Metro Campus)  
-🗓️ Expected: September 2026  
-
-**Higher Diploma in Computing & Software Engineering**  
-Cardiff Metropolitan University, UK (ICBT Campus)  
-🗓️ Completed: April 2024  
-
----
-
-## 📜 Certifications
-
-- Java OOP & Spring Boot Backend Engineering Bootcamp  
-  **StemLink, Sri Lanka** *(In Progress)*
-
----
-
-## 🤝 Soft Skills
-- Problem Solving & Analytical Thinking  
-- Team Collaboration  
-- Time Management & Adaptability  
-- Leadership & Emotional Intelligence  
+</p>
 
 ---
 
-## 📊 GitHub Stats
+# 📊 My Statistics 📊
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=janidu22&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=janidu22&layout=compact&hide_border=true)
+<p align="center">
 
----
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=janidu22&show_icons=true&theme=tokyonight"/>
 
-## 📬 Let’s Connect
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=janidu22&layout=compact&theme=tokyonight"/>
 
-- 💼 LinkedIn: https://linkedin.com/in/janidu-yapa-40217a332  
-- 📧 Email: janidudev@gmail.com  
+</p>
 
 ---
 
-⭐ *Always open to learning, collaboration, and building impactful software.*
+# 🔥 GitHub Streak 🔥
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=janidu22&theme=tokyonight"/>
+</p>
+
+---
+
+# 📈 Contribution Graph 📈
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=janidu22&theme=tokyo-night"/>
+</p>
+
+---
+
+# 🚀 Current Focus
+
+- Building scalable backend systems
+- Learning advanced AWS architecture
+- Developing full-stack applications
+- Improving system design skills
+
+---
+
+# 🎯 Goals
+
+- Become world-class backend engineer  
+- Build SaaS products  
+- Work on global production systems  
+
+---
+
+# ⚡ Fun Fact
+
+💡 I turn coffee ☕ into scalable backend systems ⚙️
+
+---
+
+<p align="center">
+🔥 From Janidu Yapa 🔥
+</p>
