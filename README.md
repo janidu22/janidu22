@@ -1,24 +1,23 @@
-<!-- HEADER -->
 <h1 align="center">Hi 👋, I'm Janidu Yapa</h1>
 
-<h3 align="center">🚀 Full-Stack Developer | Backend Engineer | Cloud Builder ☁️</h3>
+<h3 align="center">🚀 Full-Stack Developer | Spring Boot & .NET Backend Engineer | AWS Cloud Builder</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Spring+Boot+Developer;ASP.NET+Core+Developer;React+%7C+Next.js+Developer;AWS+Cloud+Engineer;Building+Scalable+Systems" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Spring+Boot+Developer;ASP.NET+Core+Developer;React+%7C+Next.js+Developer;AWS+Cloud+Engineer;Building+Production+Systems" />
 </p>
 
 ---
 
-<!-- PROFILE VIEWS -->
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=janidu22&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+<img src="https://komarev.com/ghpvc/?username=janidu22&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-# 🌐 Connect with me 🌐
+# 🌐 Connect with me
 
 <p align="center">
+
 <a href="https://linkedin.com/in/janidu-yapa-40217a332">
 <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
 </a>
@@ -34,6 +33,7 @@
 <a href="https://leetcode.com/janidudev">
 <img src="https://skillicons.dev/icons?i=leetcode" height="50"/>
 </a>
+
 </p>
 
 ---
@@ -41,15 +41,31 @@
 # 🧑‍💻 About Me
 
 - 🎓 Software Engineering Undergraduate  
-- ⚙️ Backend Specialist (Spring Boot & .NET)  
+- ⚙️ Backend Specialist (Spring Boot & ASP.NET Core)  
 - 🌐 Full-Stack Developer  
 - ☁️ AWS Cloud Developer  
-- 🚀 Building production-level systems  
-- 🧠 Passionate about scalable architectures  
+- 🚀 Building production-ready applications  
+- 🧠 Passionate about scalable systems  
 
 ---
 
-# ⚡ Languages and Tools ⚡
+# 🚀 Live Applications
+
+<p align="center">
+
+<a href="https://optiva.vercel.app/">
+<img src="https://img.shields.io/badge/Optivita-Live-00C853?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://eco-space-janidu-dev.vercel.app/">
+<img src="https://img.shields.io/badge/EcoSpace-Live-2196F3?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# ⚡ Languages and Tools
 
 <p align="center">
 
@@ -78,57 +94,57 @@
 
 ---
 
-# 📊 My Statistics 📊
+# 📊 GitHub Stats
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=janidu22&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=janidu22&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=janidu22&layout=compact&theme=tokyonight"/>
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=janidu22&layout=compact&theme=tokyonight&cache_seconds=1800"/>
 
 </p>
 
 ---
 
-# 🔥 GitHub Streak 🔥
+# 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=janidu22&theme=tokyonight"/>
+
+<img src="https://streak-stats.demolab.com?user=janidu22&theme=tokyonight"/>
+
 </p>
 
 ---
 
-# 📈 Contribution Graph 📈
+# 📈 Contribution Graph
 
 <p align="center">
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=janidu22&theme=tokyo-night"/>
+
 </p>
 
 ---
 
-# 🚀 Current Focus
+# 🎯 Current Focus
 
-- Building scalable backend systems
-- Learning advanced AWS architecture
-- Developing full-stack applications
-- Improving system design skills
-
----
-
-# 🎯 Goals
-
-- Become world-class backend engineer  
-- Build SaaS products  
-- Work on global production systems  
+- Spring Boot backend systems  
+- Cloud architecture with AWS  
+- Full-stack production apps  
+- System design  
 
 ---
 
 # ⚡ Fun Fact
 
-💡 I turn coffee ☕ into scalable backend systems ⚙️
+I turn coffee ☕ into scalable backend systems ⚙️
 
 ---
 
 <p align="center">
-🔥 From Janidu Yapa 🔥
+🔥 Built by Janidu Yapa 🔥
 </p>
